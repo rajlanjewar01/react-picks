@@ -1,4 +1,4 @@
-Before you run the application go and create your own Unsplash developer account and `Access Key` and add in api.js `headers: {
+Before you run the application go and create your own Unsplash developer account(https://unsplash.com/developers) and `Access Key` and add in api.js `headers: {
 				Authorization: 'Client-ID -Add Your Access Key Here-'
 			},`
 
